@@ -24,6 +24,9 @@ The ng g c about-us command is used to generate a new Angular component with the
 
 The ng g c contact command is used to generate a new Angular component with the name "contact".
 
+
+# npm i
+the npm i command is used to generate node modules. generate the node modules and run the next command. "ng serve"
 # ng serve
 
 The ng serve command is used to start a local development server for your Angular application.
