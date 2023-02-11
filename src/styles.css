@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+.menu{
+    background-color: #4472c4;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    padding-left: 1em;
+}
+.menu > a{
+    color: white;
+    text-decoration: none;
+}
+.menu > span{
+    float: right;
+    margin-right: 3rem;
+    color: white;
+}
+.UserInfo > h3{
+    text-align: center;
+}
+.UserInfo > table > tr{
+    text-align: center;
+}
+.UserInfo > table, td, th{
+    border: 1px solid black;
+}
+.UserInfo > table{
+    border-collapse: collapse;
+    margin: 0 auto;
+}
