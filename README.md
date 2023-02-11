@@ -29,5 +29,6 @@ The ng g c contact command is used to generate a new Angular component with the 
 the npm i command is used to generate node modules. generate the node modules and run the next command. "ng serve"
 # ng serve
 
-The ng serve command is used to start a local development server for your Angular application.
+The ng serve command is used to start a local development server for your Angular application .
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 **
